@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1682705232 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+
+1682702760 c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao02.h
+
+1682705729 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+
+1682707991 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\main.c
+	<stdio.h>
+	"questao1.h"
+	"questao2.h"
+
+1682705924 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\teste01.c
+	<stdio.h>
+	<stdlib.h>
+
+1682708355 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao1.c
+	<stdio.h>
+	<stdlib.h>
+	"questao1.h"
+
+1682708014 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao2.c
+	<stdio.h>
+	<stdlib.h>
+	"questao2.h"
+
+1682707425 source:c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao3.c
+	<stdio.h>
+	<stdlib.h>
+
+1682707873 c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao1.h
+
+1682707625 c:\users\ifam_cmzl\documents\aed02prova01\aed02prova01\aed02prova01\questao2.h
+
